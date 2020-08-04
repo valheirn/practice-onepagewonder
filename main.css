@@ -1,0 +1,15 @@
+body {
+    background: black;
+}
+
+#navigation a.navbar-brand {
+    font-size: 1rem;
+    letter-spacing: .1rem;
+    font-weight: 700;
+}
+
+#navigation a.nav-link {
+    font-size: 0.8rem;
+    letter-spacing: .1rem;
+    font-weight: 700;
+}
