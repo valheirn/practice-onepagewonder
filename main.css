@@ -1,5 +1,5 @@
 body {
-    background: black;
+    background: pink;
 }
 
 #navigation a.navbar-brand {
@@ -13,3 +13,40 @@ body {
     letter-spacing: .1rem;
     font-weight: 700;
 }
+
+#navigation .navbar {
+    position: absolute;
+    
+}
+
+#main div.jumbotron {
+    background: linear-gradient(0deg,#ff6a00 0,#ee0979 100%);
+}
+
+#main div.container {
+    padding: 7.5em 0em;
+}
+
+#main h1 {
+    font-size: 6em;
+    font-weight: 700;
+    color: white;
+}
+
+#main h2 {
+    font-size: 4em;
+    font-weight: 800;
+    color: white;
+}
+
+#main button {
+    background: #ee0979;
+    border-color: #ee0979;
+    padding: 1.5rem 3rem;
+    border-radius: 5em;
+    font-size: .9rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+
+}
+
